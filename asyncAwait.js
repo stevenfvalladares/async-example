@@ -36,6 +36,7 @@ async function main() {
   console.log("Finishing process...");
 }
 
+// Execution
 console.log("Starting process..");
 main();
 
